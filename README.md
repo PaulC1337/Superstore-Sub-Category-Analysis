@@ -10,7 +10,7 @@ The Tableau visualization for this analysis can be accessed here : https://publi
 
 Visual example below:
 
-![Sales Distribution Across Cities](https://github.com/PaulC1337/Zomato-Sales-Analysis/blob/main/Sales%20Distribution%20Across%20Cities.png)
+![Annual Profit By Sub-Category Over Time](https://github.com/PaulC1337/Superstore-Sub-Category-Analysis/blob/main/Annual%20Profit%20By%20Sub-Category%20Over%20Time.png)
 
 
 Key Insights
