@@ -93,7 +93,7 @@ Files in This Repository
 
 Dataset: Contains the Superstore dataset used for analysis.
 
-Analysis Script: Python code for data cleaning, exploration, and visualization.
+Analysis Script: Excel for data cleaning, exploration, and Tableu for visualization.
 
 Visualization: Link to the Tableau dashboard for interactive insights.
 
