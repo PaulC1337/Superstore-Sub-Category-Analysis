@@ -8,6 +8,11 @@ Tableau Dashboard
 
 The Tableau visualization for this analysis can be accessed here : https://public.tableau.com/app/profile/paul.john.cannarella.jr/viz/SuoerstoreSub-CategoryAnalysis/ProfitByState#1
 
+Visual example below:
+
+![Sales Distribution Across Cities](https://github.com/PaulC1337/Zomato-Sales-Analysis/blob/main/Sales%20Distribution%20Across%20Cities.png)
+
+
 Key Insights
 
 1. Profitability by State
@@ -92,11 +97,6 @@ Analysis Script: Python code for data cleaning, exploration, and visualization.
 
 Visualization: Link to the Tableau dashboard for interactive insights.
 
-Usage
-
-Clone the repository.
-
-Run the analysis script in a Python environment.
 
 Explore the Tableau dashboard for a visual understanding of the key findings.
 
