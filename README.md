@@ -6,7 +6,8 @@ This repository contains an analysis of the Superstore dataset, focusing on prof
 
 Tableau Dashboard
 
-The Tableau visualization for this analysis can be accessed here : https://public.tableau.com/app/profile/paul.john.cannarella.jr/viz/SuoerstoreSub-CategoryAnalysis/ProfitByState#1
+[The Tableau visualization for this analysis can be accessed here]
+
 
 Visual example below:
 
